@@ -1,0 +1,6 @@
+{
+  "posts": [
+    { "id": 1, "title": "Primeira Postagem", "date": "2024-01-01", "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fiap.com.br%2F&psig=AOvVaw3Zw0TuBt-Qc5KNU5ZVuT2j&ust=1716932935250000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiNuJznroYDFQAAAAAdAAAAABAE" },
+    { "id": 2, "title": "Segunda Postagem", "date": "2024-02-01", "image": "https://www.google.com/imgres?q=imagem%20fiap%20png&imgurl=https%3A%2F%2Fonetclub.com.br%2Fwp-content%2Fuploads%2F2019%2F04%2Ffiap.jpg&imgrefurl=https%3A%2F%2Fonetclub.com.br%2Ffiap%2F&docid=CwKh13hR2b4KOM&tbnid=j_CNxy-QhSGphM&vet=12ahUKEwjw4oje566GAxUbr5UCHQcwCvMQM3oECBQQAA..i&w=768&h=432&hcb=2&ved=2ahUKEwjw4oje566GAxUbr5UCHQcwCvMQM3oECBQQAA" }
+  ]
+}
